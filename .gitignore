@@ -1,0 +1,10 @@
+.env
+data/
+uploads/
+backups/
+*.db
+*.sqlite
+*.sqlite3
+*.log
+.DS_Store
+Thumbs.db
